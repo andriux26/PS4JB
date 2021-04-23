@@ -4,6 +4,10 @@
    </style>
 <body onload="go()">
 <script>
+    if(document.cookie.indexOf('kex=0') >= 0)
+        window.location.href ='index.html';
+</script>
+<script>
 function print(){}
 
 var scriptCode = '';
