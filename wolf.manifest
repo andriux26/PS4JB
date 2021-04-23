@@ -21,6 +21,12 @@ mira\enableupdates.js
 mira\fan.js
 mira\frontend.js
 mira\ftp.js
+mira\goldhen1-750.js
+mira\goldhen1-750b.js
+mira\goldhen1-751.js
+mira\goldhen1-751b.js
+mira\goldhen1-755.js
+mira\goldhen1-755b.js
 mira\goldhen750.js
 mira\goldhen751.js
 mira\goldhen755.js
@@ -34,6 +40,9 @@ mira\linuxloader3gb.js
 mira\loader-750.js
 mira\loader-751.js
 mira\loader-755.js
+mira\mira-750.js
+mira\mira-751.js
+mira\mira-755.js
 mira\mira.js
 mira\mira750.js
 mira\mira751.js
